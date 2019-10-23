@@ -19,7 +19,7 @@ var_dump(
 ?>
 </pre>
 
-<p style="text-align:center"><a href="../php-7-tutorial/index.php">Back to main menu</a></p>
+<p style="text-align:center"><a href="index.php">Back to main menu</a></p>
 
 </section>
 </body>

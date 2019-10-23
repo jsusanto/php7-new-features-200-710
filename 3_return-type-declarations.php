@@ -20,7 +20,7 @@ Output: <i>5</i> <br/><br/>
 </pre>
 Output: <i>Fatal error: Uncaught TypeError: Return value of returnIntValue() must be of the type integer, float returned...</i>
 
-<p style="text-align:center"><a href="../php-7-tutorial/index.php">Back to main menu</a></p>
+<p style="text-align:center"><a href="index.php">Back to main menu</a></p>
 
 </section>
 </body>

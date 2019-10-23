@@ -39,7 +39,7 @@ var_dump(add(1,2));
 var_dump(add("1", "2"));
 ?>
 
-<p style="text-align:center"><a href="../php-7-tutorial/index.php">Back to main menu</a></p>
+<p style="text-align:center"><a href="index.php">Back to main menu</a></p>
 
 </section>
 </body>
